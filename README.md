@@ -55,28 +55,34 @@ This collection houses C programs developed for the **First Year B.Tech (Semeste
 
 Each assignment is a standalone `.c` file. You can compile them using any standard C compiler (GCC, Clang, or MSVC).
 
-### 🐧 1️⃣ Linux / macOS (Terminal)
+### 🐧 Linux / macOS / Windows (Terminal)
 Open your terminal and navigate to the folder containing the file.
 
-**Compile:**
+# Matrix App – Compile and Run Guide
+
+Open your terminal or command prompt and navigate to the folder containing the source file.
+
+---
+
+## Compile and Run
+
+### Linux / macOS
 ```bash
 gcc Assignment_05.c -o matrix_app -lm
-
-**Run:**
-
-```Bash
-
 ./matrix_app
-🖥️ 2️⃣ Windows (GCC / MinGW)
-
-**Compile:**
-
-```DOS
-
+```
+### Windows (GCC / MinGW)
+```bash
 gcc Assignment_01.c -o program.exe
-
-**Run:**
-
-```DOS
-
 program.exe
+```
+### 📄 License:
+
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this code for personal, academic, or commercial purposes, provided that proper credit is given to the original author.
+For full license details, see the LICENSE file in this repository.
+
+### ⚠️ Academic Integrity Disclaimer:
+
+This repository contains my personal solutions for the Foundations of Programming (FOP) course.
+These codes are provided for educational reference and learning purposes only.
