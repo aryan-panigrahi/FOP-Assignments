@@ -16,7 +16,7 @@ This collection houses C programs developed for the **First Year B.Tech (Semeste
 * **Assignment 02 - Arithmetic Menu**
     *Logic:* A menu-driven program for Addition, Subtraction, Multiplication, and Division using `switch-case`.
 * **Assignment 03 - Multiplication Table**
-    * [cite_start]*Logic:* Generates the multiplication table for a specific number using looping constructs.
+    *Logic:* Generates the multiplication table for a specific number using looping constructs.
 
 ### 🟡 Phase 2: Logic & Algorithms
 * **Assignment 04 - Salary Calculator**
@@ -61,3 +61,22 @@ Open your terminal and navigate to the folder containing the file.
 **Compile:**
 ```bash
 gcc Assignment_05.c -o matrix_app -lm
+
+**Run:**
+
+```Bash
+
+./matrix_app
+🖥️ 2️⃣ Windows (GCC / MinGW)
+
+**Compile:**
+
+```DOS
+
+gcc Assignment_01.c -o program.exe
+
+**Run:**
+
+```DOS
+
+program.exe
